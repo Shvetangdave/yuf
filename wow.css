@@ -1,0 +1,20 @@
+#Yes{
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    background-color: brown;
+}
+
+#no{
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+#other{
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    background-color: aquamarine;
+}
